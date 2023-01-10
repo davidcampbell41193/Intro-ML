@@ -6,7 +6,7 @@ This project is roughly following the Normalized Nerd YouTube videos on Decision
 Decision Tree Classifiers Explained:
 https://www.youtube.com/watch?v=ZVR2Way4nwQ
 
-Random Forest Algorithim Explained:
+Random Forest Algorithim Explained:\\
 https://www.youtube.com/watch?v=v6VJ2RO66Ag
 
 Normalized Nerd video and source code on "Decision Tree Classifiers from Scratch" was also used.
